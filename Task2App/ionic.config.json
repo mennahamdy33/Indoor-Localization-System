@@ -1,0 +1,7 @@
+{
+  "name": "Task2App",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
